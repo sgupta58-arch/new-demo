@@ -1,2 +1,3 @@
-# new-demo
-demo
+# new
+this is my first repository
+
